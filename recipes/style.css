@@ -1,0 +1,33 @@
+html {
+    background-color: rgb(255, 219, 255);
+}
+
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+}
+
+h2, ul, ol {
+    text-align: left;
+}
+
+h1 {
+    color: antiquewhite;
+    background-color:plum;
+    padding: 16px;
+    border-style: double;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.content-box {
+    background-color: white;
+    height: auto;
+    width: 700px;
+    margin: 24px auto 24px;
+    padding: 16px;
+}
+
